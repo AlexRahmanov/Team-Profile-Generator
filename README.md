@@ -38,4 +38,4 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 # Mock-Up
-![Alt text]()
+![Alt text](https://github.com/AlexRahmanov/Team-Profile-Generator/blob/main/img/Untitled.jpg)
